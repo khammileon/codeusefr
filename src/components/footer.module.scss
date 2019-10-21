@@ -1,0 +1,28 @@
+$green: #44CC8D;
+
+.footer {
+    border-top: 1px solid #ccc;
+    padding: 3rem 0 1rem;
+    margin-top: 6rem;
+    display: flex;
+    justify-content: center;
+}
+
+.copyright {
+    color: $green;
+    font-weight: lighter;
+    font-size: .8rem;
+}
+
+.copyright-link {
+    background-color: $green;
+    color: white;
+    font-weight: bold;
+    font-size: .8rem;
+    text-decoration: none;
+    padding: 0.2rem;
+}
+
+.copyright-link:hover {
+    background-color: black;
+}
