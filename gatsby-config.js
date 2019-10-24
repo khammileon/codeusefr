@@ -8,7 +8,7 @@ module.exports = {
   /* Your site config here */
   /* Informations à propos du site web */
   siteMetadata: {
-    title: `Codeuse.fr`,
+    title: `Codeuse`,
     author: `Sara Cammi`,
     siteUrl: `https://www.codeuse.fr`,
     description: `Un blog sur le développement web, le freelancing et un peu d'UX & UI`,
