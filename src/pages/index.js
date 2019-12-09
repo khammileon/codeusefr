@@ -18,7 +18,7 @@ const IndexPage = () => {
     return (
         <Layout>
             <Head title="Bienvenue" />
-            <h2>Hey <span role="img" aria-label="Girl saying hi">🙋🏻‍</span></h2>
+            <h2>Hey <span role="img" aria-label="Girl behind a MacBook Pro">👩🏻‍💻</span></h2>
             <h3>Je m'appelle {data.site.siteMetadata.author}, je te souhaite la bienvenue sur mon site.</h3>
             <p>N'hésite pas à me <Link to="/contact">contacter</Link>  si tu as une question.</p>
         </Layout>
